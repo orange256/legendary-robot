@@ -1,0 +1,12 @@
+Package: seafooood
+Type: Package
+Title: Compute 2-order latent interaction term in CFA model
+Version: 1.0.0
+Author: Yi-Cheng Hsiao
+Maintainer: ml2lab-nctu <mllab.nctu@gmail.com>
+Description: as Title.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: lavaan, magrittr, dplyr, MplusAutomation
+RoxygenNote: 6.0.1
